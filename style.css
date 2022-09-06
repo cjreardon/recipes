@@ -5,6 +5,7 @@ h1 {
 body {
     background-color:rgb(122, 206, 248);
     color: black;
+    font-family:'Courier New', Courier, monospace;
 }
 
 .wrapper {
