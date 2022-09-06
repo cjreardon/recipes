@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color:rgb(122, 206, 248);
+    color: black;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.ulist {
+    display: inline-block;
+    text-align: left;
+    font-size: 24px;
+    color:azure;
+}
+
+a:link {
+    color: azure;
+}
+
+a:visited {
+    color: azure;
+}
+
+a:hover {
+    color: white;
+}
+
+img {
+    height: 500px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
